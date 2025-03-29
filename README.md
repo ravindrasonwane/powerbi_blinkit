@@ -17,92 +17,84 @@ Additionally, if certain regions or demographics show lower engagement or order 
 ![Image](https://github.com/user-attachments/assets/87f42f35-2df2-46c2-81e2-51224824b16c)
 
  
- # Report Snapshot (Power BI DESKTOP)
-
- 
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
 
 # Insights
 
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+### [1] Total Sales and Items  
 
-Following inferences can be drawn from the dashboard;
+   Total Sales = $1.20M  
+   Total Number of Items = 8,523  
+   Average Sales per Item = $141  
+   Average Rating = 3.92  
 
-### [1] Total Number of Customers = 129880
+---
 
-   Number of satisfied Customers (Male) = 28159 (21.68 %)
+### [2] Sales Performance by Item Type  
 
-   Number of satisfied Customers (Female) = 28269 (21.76 %)
+   a) Fruits and Vegetables - $178K  
+   b) Snack Foods - $175K  
+   c) Household Items - $136K  
+   d) Frozen Foods - $119K  
+   e) Dairy Products - $101K  
+   f) Canned Goods - $91K  
+   g) Baking Goods - $82K  
+   h) Health and Wellness - $68K  
+   i) Meat - $59K  
+   j) Soft Drinks - $59K  
 
-   Number of neutral/unsatisfied customers (Male) = 35822 (27.58 %)
+   → Highest sales from **Fruits & Vegetables** category.
 
-   Number of neutral/unsatisfied customers (Female) = 37630 (28.97 %)
+---
 
+### [3] Outlet Performance  
 
-           thus, higher number of customers are neutral/unsatisfied.
-           
-### [2] Average Ratings
+   a) Supermarket Type 1 - $787.5K  
+   b) Grocery Store - $151.9K  
+   c) Supermarket Type 3 - $130.7K  
+   d) Supermarket Type 2 - $131.4K  
 
-    a) Baggage Handling - 3.63/5
-    b) Check-in Service - 3.31/5
-    c) Cleanliness - 3.29/5
-    d) Ease of online booking - 2.88/5
-    e) Food & Drink - 3.21/5
-    f) In-flight Entertainment - 3.36/5
-    g) In-flight service - 3.64/5
-    h) In-flight Wifi service - 2.81/5
-    i) Leg room service - 3.37/5
-    j) On-board service - 3.38/5
-    k) Online boarding - 3.33/5
-    l) Seat comfort - 3.44/5
-    m) Departure & arrival convenience - 3.22/5
-  
-  while calculating average rating, null values have been ignored as they were not relevant for some customers. 
-  
-  These ratings will change if different visual filters will be applied.  
-  
-  ### [3] Average Delay 
-  
-      a) Average delay in arrival(minutes) - 15.09
-      b) Average delay in departure(minutes) - 14.71
-Average delay will change if different visual filters will be applied.
+   → Supermarket Type 1 has the highest total sales.
 
- ### [4] Some other insights
- 
- ### Class
- 
- 1.1) 47.87 % customers travelled by Business class.
- 
- 1.2) 44.89 % customers travelled by Economy class.
- 
- 1.3) 7.25 % customers travelled by Economy plus class.
- 
-         thus, maximum customers travelled by Business class.
- 
- ### Age Group
- 
- 2.1)  21.69 % customers belong to '0-25' age group.
- 
- 2.2)  52.44 % customers belong to '25-50' age group.
- 
- 2.3)  25.57 % customers belong to '50-75' age group.
- 
- 2.4)  0.31 % customers belong to '75-100' age group.
- 
-         thus, maximum customers belong to '25-50' age group.
-         
-### Customer Type
+---
 
-3.1) 18.31 % customers have customer type 'First time'.
+### [4] Sales Trends & Outlet Establishment  
 
-3.2) 81.69 % customers have customer type 'returning'.
-       
-       thus, more customers have customer type 'returning'.
+   a) 2012 - $78K  
+   b) 2014 - $130K  
+   c) 2016 - $132K  
+   d) 2018 - **$205K (Highest Sales Year)**  
+   e) 2020 - $129K  
+   f) 2022 - $131K  
 
-### Type of travel
+   → Peak sales occurred in **2018 ($205K)**.
 
-4.1) 69.06 % customers have travel type 'Business'.
+---
 
-4.2) 30.94 % customers have travel type 'Personal'.
+### [5] Sales by Item Fat Content  
 
-        thus, more customers have travel type 'Business'.
+   a) Medium Fat - $248.99K (20.72%)  
+   b) Small Fat - $444.79K (37.01%)  
+   c) Regular Fat - $507.9K (42.72%)  
+
+   → **Regular Fat items are the top-selling category.**
+
+---
+
+### [6] Tier-wise Performance  
+
+   a) Tier 3 - **$472.13K**  
+   b) Tier 2 - **$393.15K**  
+   c) Tier 1 - **$336.4K**  
+
+   → Tier 3 outlets generate the highest sales.
+
+---
+
+### [7] Key Takeaways & Recommendations  
+
+   1) **High-Selling Categories** → Focus on Fruits, Snacks & Household products.  
+   2) **Top Outlet Format** → Expand Supermarket Type 1.  
+   3) **Top Performing Tiers** → Tier 3 outlets lead in sales.  
+   4) **Customer Preferences** → Regular Fat items are the most purchased.  
+   5) **Sales Peak in 2018** → Investigate factors contributing to this success.
+
